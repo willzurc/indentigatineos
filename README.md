@@ -1,2 +1,2 @@
 # indentigatineos
-algoritmo para identificar imagens de gatos
+algoritmo de reconhecimento de imagens
